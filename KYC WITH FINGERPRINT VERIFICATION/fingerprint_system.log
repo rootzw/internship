@@ -1,0 +1,534 @@
+2025-03-04 15:57:13,494 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-04 15:57:13,494 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-04 15:57:13,494 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 15:57:14,704 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 15:57:14,709 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-04 15:57:35,569 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 15:57:35] "GET / HTTP/1.1" 200 -
+2025-03-04 15:57:36,197 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 15:57:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-04 15:57:40,161 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 15:57:40] "GET / HTTP/1.1" 200 -
+2025-03-04 15:59:38,515 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 15:59:38] "GET / HTTP/1.1" 200 -
+2025-03-04 15:59:39,645 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 15:59:39] "GET / HTTP/1.1" 200 -
+2025-03-04 15:59:59,012 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-04 15:59:59,012 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-04 15:59:59,012 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 16:00:00,078 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 16:00:00,100 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-04 16:00:10,384 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:00:10] "GET / HTTP/1.1" 200 -
+2025-03-04 16:00:11,355 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:00:11] "GET / HTTP/1.1" 200 -
+2025-03-04 16:00:12,290 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:00:12] "GET / HTTP/1.1" 200 -
+2025-03-04 16:03:22,180 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-04 16:03:22,184 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-04 16:03:22,187 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 16:03:23,185 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 16:03:23,209 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-04 16:03:37,280 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:03:37] "GET / HTTP/1.1" 200 -
+2025-03-04 16:03:47,453 - utils.logger - ERROR - Failed to read image: static/temp_fingerprint.png
+2025-03-04 16:03:47,454 - utils.logger - ERROR - No descriptors extracted.
+2025-03-04 16:03:47,455 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:03:47] "POST /train HTTP/1.1" 200 -
+2025-03-04 16:06:40,771 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL 7280\\Desktop\\intern\\Fingme\\capture.py', reloading
+2025-03-04 16:06:40,961 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 16:06:42,334 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 16:06:42,344 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-04 16:23:39,739 - utils.logger - INFO - Starting Flask application...
+2025-03-04 16:23:39,848 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-04 16:23:39,848 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-04 16:23:39,848 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 16:23:40,902 - utils.logger - INFO - Starting Flask application...
+2025-03-04 16:23:40,965 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 16:23:40,984 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-04 16:23:52,131 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:23:52] "GET / HTTP/1.1" 200 -
+2025-03-04 16:24:15,423 - utils.logger - INFO - Training fingerprint for user: first finger
+2025-03-04 16:24:20,188 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:26:28,465 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:26:32,060 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:26:32,129 - utils.logger - ERROR - Failed to capture frame.
+2025-03-04 16:26:32,169 - utils.logger - ERROR - Error in capture_fingerprint: cannot access local variable 'filename' where it is not associated with a value
+2025-03-04 16:26:32,171 - utils.logger - ERROR - Failed to capture fingerprint.
+2025-03-04 16:26:32,172 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:26:32] "POST /train HTTP/1.1" 200 -
+2025-03-04 16:26:48,128 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:26:49,489 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:26:52,337 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:26:52,376 - utils.logger - ERROR - Failed to capture frame.
+2025-03-04 16:26:52,444 - utils.logger - ERROR - Error in capture_fingerprint: cannot access local variable 'filename' where it is not associated with a value
+2025-03-04 16:26:52,445 - utils.logger - ERROR - Failed to capture fingerprint.
+2025-03-04 16:26:52,448 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:26:52] "POST /recognize HTTP/1.1" 200 -
+2025-03-04 16:26:53,776 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:26:53,869 - utils.logger - ERROR - Failed to capture frame.
+2025-03-04 16:26:53,872 - utils.logger - ERROR - Error in capture_fingerprint: cannot access local variable 'filename' where it is not associated with a value
+2025-03-04 16:26:53,879 - utils.logger - ERROR - Failed to capture fingerprint.
+2025-03-04 16:26:53,890 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:26:53] "POST /recognize HTTP/1.1" 200 -
+2025-03-04 16:30:02,916 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:30:40,900 - utils.logger - INFO - Fingerprint saved as static/20250304163040.png
+2025-03-04 16:31:19,264 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:32:39,723 - utils.logger - INFO - Fingerprint saved as static/20250304163239.png
+2025-03-04 16:33:14,779 - utils.logger - INFO - Starting Flask application...
+2025-03-04 16:33:14,962 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-04 16:33:14,962 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-04 16:33:14,962 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 16:33:15,923 - utils.logger - INFO - Starting Flask application...
+2025-03-04 16:33:15,981 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 16:33:15,997 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-04 16:33:45,007 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:33:45] "GET / HTTP/1.1" 200 -
+2025-03-04 16:33:47,042 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:33:51,405 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:34:27,683 - utils.logger - INFO - Fingerprint saved as static/20250304163427.png
+2025-03-04 16:34:30,403 - utils.logger - INFO - Extracted 17 descriptors from static/20250304163427.png
+2025-03-04 16:34:30,432 - utils.logger - ERROR - Error in match_fingerprint: no such table: fingerprints
+2025-03-04 16:34:30,433 - utils.logger - INFO - Match result: No match found
+2025-03-04 16:34:30,435 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:34:30] "POST /recognize HTTP/1.1" 200 -
+2025-03-04 16:34:35,688 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:34:39,472 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:35:40,459 - utils.logger - INFO - Fingerprint saved as static/20250304163540.png
+2025-03-04 16:35:43,157 - utils.logger - INFO - Extracted 25 descriptors from static/20250304163540.png
+2025-03-04 16:35:43,159 - utils.logger - ERROR - Error in match_fingerprint: no such table: fingerprints
+2025-03-04 16:35:43,160 - utils.logger - INFO - Match result: No match found
+2025-03-04 16:35:43,161 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:35:43] "POST /recognize HTTP/1.1" 200 -
+2025-03-04 16:35:54,319 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:35:58,900 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:36:23,154 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:36:26,975 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:36:27,074 - utils.logger - ERROR - Failed to capture frame.
+2025-03-04 16:36:27,111 - utils.logger - ERROR - Error in capture_fingerprint: cannot access local variable 'filename' where it is not associated with a value
+2025-03-04 16:36:27,112 - utils.logger - ERROR - Failed to capture fingerprint.
+2025-03-04 16:36:27,113 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:36:27] "POST /recognize HTTP/1.1" 200 -
+2025-03-04 16:36:35,632 - utils.logger - INFO - Fingerprint saved as static/20250304163635.png
+2025-03-04 16:36:38,347 - utils.logger - INFO - Extracted 15 descriptors from static/20250304163635.png
+2025-03-04 16:36:38,356 - utils.logger - ERROR - Error in match_fingerprint: no such table: fingerprints
+2025-03-04 16:36:38,356 - utils.logger - INFO - Match result: No match found
+2025-03-04 16:36:38,358 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:36:38] "POST /recognize HTTP/1.1" 200 -
+2025-03-04 16:40:09,699 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL 7280\\Desktop\\intern\\Fingme\\train.py', reloading
+2025-03-04 16:40:10,633 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 16:40:18,815 - utils.logger - INFO - Starting Flask application...
+2025-03-04 16:40:19,120 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 16:40:19,197 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-04 16:40:37,492 - utils.logger - INFO - Starting Flask application...
+2025-03-04 16:40:37,564 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-04 16:40:37,579 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-04 16:40:37,584 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 16:40:38,499 - utils.logger - INFO - Starting Flask application...
+2025-03-04 16:40:38,551 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 16:40:38,572 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-04 16:40:50,175 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:40:55,179 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:40:55,840 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:40:55] "GET / HTTP/1.1" 200 -
+2025-03-04 16:41:08,723 - utils.logger - INFO - Training fingerprint for user: test
+2025-03-04 16:41:12,106 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:41:12,209 - utils.logger - ERROR - Failed to capture frame.
+2025-03-04 16:41:12,278 - utils.logger - ERROR - Error in capture_fingerprint: cannot access local variable 'filename' where it is not associated with a value
+2025-03-04 16:41:12,279 - utils.logger - ERROR - Failed to capture fingerprint.
+2025-03-04 16:41:12,280 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:41:12] "POST /recognize HTTP/1.1" 200 -
+2025-03-04 16:41:32,755 - utils.logger - INFO - Fingerprint saved as static/20250304164132.png
+2025-03-04 16:41:35,353 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-04 16:41:35,549 - utils.logger - INFO - Extracted 113 descriptors.
+2025-03-04 16:41:36,005 - utils.logger - INFO - Fingerprint stored for test.
+2025-03-04 16:41:36,005 - utils.logger - INFO - Fingerprint stored successfully for test.
+2025-03-04 16:41:36,005 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:41:36] "POST /train HTTP/1.1" 200 -
+2025-03-04 16:41:43,284 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:41:47,122 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:42:05,907 - utils.logger - INFO - Fingerprint saved as static/20250304164205.png
+2025-03-04 16:42:08,399 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-04 16:42:08,601 - utils.logger - INFO - Extracted 155 descriptors.
+2025-03-04 16:42:08,615 - utils.logger - INFO - Best match found: test with 30 good matches.
+2025-03-04 16:42:08,617 - utils.logger - INFO - Match result: test
+2025-03-04 16:42:08,619 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:42:08] "POST /recognize HTTP/1.1" 200 -
+2025-03-04 16:42:15,070 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:42:18,812 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:42:31,282 - utils.logger - INFO - Fingerprint saved as static/20250304164231.png
+2025-03-04 16:42:33,802 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-04 16:42:34,002 - utils.logger - INFO - Extracted 132 descriptors.
+2025-03-04 16:42:34,007 - utils.logger - INFO - Best match found: test with 21 good matches.
+2025-03-04 16:42:34,008 - utils.logger - INFO - Match result: test
+2025-03-04 16:42:34,009 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:42:34] "POST /recognize HTTP/1.1" 200 -
+2025-03-04 16:42:44,562 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:42:44] "GET / HTTP/1.1" 200 -
+2025-03-04 16:42:47,621 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:42:51,248 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:43:01,399 - utils.logger - INFO - Fingerprint saved as static/20250304164301.png
+2025-03-04 16:43:03,929 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-04 16:43:04,122 - utils.logger - INFO - Extracted 116 descriptors.
+2025-03-04 16:43:04,160 - utils.logger - INFO - Best match found: test with 25 good matches.
+2025-03-04 16:43:04,166 - utils.logger - INFO - Match result: test
+2025-03-04 16:43:04,171 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:43:04] "POST /recognize HTTP/1.1" 200 -
+2025-03-04 16:43:33,760 - utils.logger - INFO - Training fingerprint for user: try
+2025-03-04 16:43:37,742 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:43:45,836 - utils.logger - INFO - Fingerprint saved as static/20250304164345.png
+2025-03-04 16:43:48,358 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-04 16:43:48,603 - utils.logger - INFO - Extracted 106 descriptors.
+2025-03-04 16:43:48,613 - utils.logger - INFO - Fingerprint stored for try.
+2025-03-04 16:43:48,616 - utils.logger - INFO - Fingerprint stored successfully for try.
+2025-03-04 16:43:48,620 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:43:48] "POST /train HTTP/1.1" 200 -
+2025-03-04 16:43:52,641 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:43:56,464 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:44:05,926 - utils.logger - INFO - Fingerprint saved as static/20250304164405.png
+2025-03-04 16:44:08,414 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-04 16:44:08,632 - utils.logger - INFO - Extracted 141 descriptors.
+2025-03-04 16:44:08,640 - utils.logger - INFO - Best match found: test with 33 good matches.
+2025-03-04 16:44:08,641 - utils.logger - INFO - Match result: test
+2025-03-04 16:44:08,642 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:44:08] "POST /recognize HTTP/1.1" 200 -
+2025-03-04 16:44:16,749 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:44:16] "GET / HTTP/1.1" 200 -
+2025-03-04 16:45:22,229 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:45:27,543 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:45:42,149 - utils.logger - INFO - Fingerprint saved as static/20250304164542.png
+2025-03-04 16:45:44,642 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-04 16:45:44,845 - utils.logger - INFO - Extracted 109 descriptors.
+2025-03-04 16:45:44,853 - utils.logger - INFO - Best match found: try with 30 good matches.
+2025-03-04 16:45:44,857 - utils.logger - INFO - Match result: try
+2025-03-04 16:45:44,858 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:45:44] "POST /recognize HTTP/1.1" 200 -
+2025-03-04 16:45:52,749 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:45:52] "GET / HTTP/1.1" 200 -
+2025-03-04 16:45:55,304 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:45:59,103 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:46:06,567 - utils.logger - INFO - Fingerprint saved as static/20250304164606.png
+2025-03-04 16:46:09,078 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-04 16:46:09,305 - utils.logger - INFO - Extracted 119 descriptors.
+2025-03-04 16:46:09,313 - utils.logger - INFO - Best match found: test with 33 good matches.
+2025-03-04 16:46:09,325 - utils.logger - INFO - Match result: test
+2025-03-04 16:46:09,336 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:46:09] "POST /recognize HTTP/1.1" 200 -
+2025-03-04 16:46:12,937 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:46:16,743 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:46:28,587 - utils.logger - INFO - Fingerprint saved as static/20250304164628.png
+2025-03-04 16:46:31,109 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-04 16:46:31,326 - utils.logger - INFO - Extracted 94 descriptors.
+2025-03-04 16:46:31,332 - utils.logger - INFO - Best match found: try with 21 good matches.
+2025-03-04 16:46:31,343 - utils.logger - INFO - Match result: try
+2025-03-04 16:46:31,358 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:46:31] "POST /recognize HTTP/1.1" 200 -
+2025-03-04 16:46:39,385 - utils.logger - INFO - Training fingerprint for user: zoom
+2025-03-04 16:46:43,174 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:46:58,821 - utils.logger - INFO - Fingerprint saved as static/20250304164658.png
+2025-03-04 16:47:01,327 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-04 16:47:01,712 - utils.logger - INFO - Extracted 113 descriptors.
+2025-03-04 16:47:01,952 - utils.logger - INFO - Fingerprint stored for zoom.
+2025-03-04 16:47:01,954 - utils.logger - INFO - Fingerprint stored successfully for zoom.
+2025-03-04 16:47:01,954 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:47:01] "POST /train HTTP/1.1" 200 -
+2025-03-04 16:47:06,221 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:47:14,773 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:48:29,306 - utils.logger - INFO - Fingerprint saved as static/20250304164829.png
+2025-03-04 16:48:31,777 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-04 16:48:32,005 - utils.logger - INFO - Extracted 136 descriptors.
+2025-03-04 16:48:32,014 - utils.logger - INFO - Best match found: test with 27 good matches.
+2025-03-04 16:48:32,014 - utils.logger - INFO - Match result: test
+2025-03-04 16:48:32,016 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:48:32] "POST /recognize HTTP/1.1" 200 -
+2025-03-04 16:48:35,290 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-04 16:48:39,037 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-04 16:51:55,847 - utils.logger - INFO - Fingerprint saved as static/20250304165155.png
+2025-03-04 16:51:58,373 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-04 16:51:58,612 - utils.logger - INFO - Extracted 87 descriptors.
+2025-03-04 16:51:58,625 - utils.logger - INFO - Best match found: zoom with 18 good matches.
+2025-03-04 16:51:58,626 - utils.logger - INFO - Match result: zoom
+2025-03-04 16:51:58,627 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 16:51:58] "POST /recognize HTTP/1.1" 200 -
+2025-03-05 09:38:05,435 - utils.logger - INFO - Starting Flask application...
+2025-03-05 09:38:05,552 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 09:38:05,553 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 09:38:05,557 - werkzeug - INFO -  * Restarting with stat
+2025-03-05 09:38:06,723 - utils.logger - INFO - Starting Flask application...
+2025-03-05 09:38:06,774 - werkzeug - WARNING -  * Debugger is active!
+2025-03-05 09:38:06,796 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-05 09:38:20,014 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 09:38:20] "GET / HTTP/1.1" 200 -
+2025-03-05 09:38:22,675 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 09:38:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-05 09:53:25,629 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 09:53:25,631 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 09:53:25,634 - werkzeug - INFO -  * Restarting with stat
+2025-03-05 09:53:26,787 - werkzeug - WARNING -  * Debugger is active!
+2025-03-05 09:53:26,808 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-05 09:53:31,905 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 09:53:31] "GET / HTTP/1.1" 200 -
+2025-03-05 09:53:34,332 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 09:53:34] "GET / HTTP/1.1" 200 -
+2025-03-05 09:53:35,354 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 09:53:35] "GET / HTTP/1.1" 200 -
+2025-03-05 09:53:43,033 - werkzeug - INFO -  * Detected change in 'C:\\Users\\DELL 7280\\Desktop\\intern\\Fingme\\appy.py', reloading
+2025-03-05 09:53:43,234 - werkzeug - INFO -  * Restarting with stat
+2025-03-05 09:53:44,401 - werkzeug - WARNING -  * Debugger is active!
+2025-03-05 09:53:44,408 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-05 09:54:12,480 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 09:54:12,482 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 09:54:12,484 - werkzeug - INFO -  * Restarting with stat
+2025-03-05 09:54:13,653 - werkzeug - WARNING -  * Debugger is active!
+2025-03-05 09:54:13,668 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-05 09:55:33,464 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 09:55:33] "GET / HTTP/1.1" 200 -
+2025-03-05 09:55:33,540 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 09:55:33] "[33mGET /static/xds_logo.png HTTP/1.1[0m" 404 -
+2025-03-05 09:55:48,994 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 09:56:50,280 - utils.logger - INFO - Fingerprint saved as static/20250305095650.png
+2025-03-05 09:56:53,197 - utils.logger - ERROR - Failed to read image: static\temp_fingerprint.png
+2025-03-05 09:56:53,199 - utils.logger - ERROR - Image preprocessing failed.
+2025-03-05 09:56:53,200 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 09:56:53] "[35m[1mPOST /train HTTP/1.1[0m" 500 -
+2025-03-05 10:00:20,260 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 10:00:20,260 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 10:00:20,328 - werkzeug - INFO -  * Restarting with stat
+2025-03-05 10:00:21,693 - werkzeug - WARNING -  * Debugger is active!
+2025-03-05 10:00:21,750 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-05 10:00:27,744 - utils.logger - ERROR - Failed to read image: static\temp_fingerprint.png
+2025-03-05 10:00:27,747 - utils.logger - ERROR - Image preprocessing failed.
+2025-03-05 10:00:27,750 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:00:27] "[35m[1mPOST /train HTTP/1.1[0m" 500 -
+2025-03-05 10:01:04,779 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 10:01:04,781 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 10:01:04,785 - werkzeug - INFO -  * Restarting with stat
+2025-03-05 10:01:06,390 - werkzeug - WARNING -  * Debugger is active!
+2025-03-05 10:01:06,417 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-05 10:01:07,155 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:01:07] "GET / HTTP/1.1" 200 -
+2025-03-05 10:01:07,628 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:01:07] "GET /static/xds_logo.png HTTP/1.1" 200 -
+2025-03-05 10:01:10,565 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:01:10] "GET / HTTP/1.1" 200 -
+2025-03-05 10:01:10,666 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:01:10] "[36mGET /static/xds_logo.png HTTP/1.1[0m" 304 -
+2025-03-05 10:26:18,054 - utils.logger - INFO - Starting Flask application...
+2025-03-05 10:26:18,162 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 10:26:18,169 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 10:26:18,171 - werkzeug - INFO -  * Restarting with stat
+2025-03-05 10:26:19,174 - utils.logger - INFO - Starting Flask application...
+2025-03-05 10:26:19,226 - werkzeug - WARNING -  * Debugger is active!
+2025-03-05 10:26:19,242 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-05 10:26:26,015 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:26:26] "GET / HTTP/1.1" 200 -
+2025-03-05 10:26:31,917 - utils.logger - INFO - Training fingerprint for user: Tanaka
+2025-03-05 10:26:37,104 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 10:27:00,931 - utils.logger - INFO - Fingerprint saved as static/20250305102700.png
+2025-03-05 10:27:03,432 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-05 10:27:03,669 - utils.logger - INFO - Extracted 145 descriptors.
+2025-03-05 10:27:03,736 - utils.logger - INFO - Fingerprint stored for Tanaka.
+2025-03-05 10:27:03,736 - utils.logger - INFO - Fingerprint stored successfully for Tanaka.
+2025-03-05 10:27:03,737 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:27:03] "POST /train HTTP/1.1" 200 -
+2025-03-05 10:27:08,246 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-05 10:27:13,580 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 10:27:25,142 - utils.logger - INFO - Fingerprint saved as static/20250305102725.png
+2025-03-05 10:27:27,620 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-05 10:27:27,826 - utils.logger - INFO - Extracted 136 descriptors.
+2025-03-05 10:27:27,853 - utils.logger - INFO - Best match found: Tanaka with 39 good matches.
+2025-03-05 10:27:27,855 - utils.logger - INFO - Match result: Tanaka
+2025-03-05 10:27:27,857 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:27:27] "POST /recognize HTTP/1.1" 200 -
+2025-03-05 10:27:36,256 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-05 10:27:41,756 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 10:27:55,869 - utils.logger - INFO - Fingerprint saved as static/20250305102755.png
+2025-03-05 10:27:58,329 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-05 10:27:58,552 - utils.logger - INFO - Extracted 198 descriptors.
+2025-03-05 10:27:58,572 - utils.logger - INFO - Best match found: Tanaka with 31 good matches.
+2025-03-05 10:27:58,574 - utils.logger - INFO - Match result: Tanaka
+2025-03-05 10:27:58,576 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:27:58] "POST /recognize HTTP/1.1" 200 -
+2025-03-05 10:28:08,025 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-05 10:28:13,414 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 10:28:25,700 - utils.logger - INFO - Training fingerprint for user: Brighton
+2025-03-05 10:28:30,420 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 10:28:30,558 - utils.logger - ERROR - Failed to capture frame.
+2025-03-05 10:28:30,585 - utils.logger - ERROR - Error in capture_fingerprint: cannot access local variable 'filename' where it is not associated with a value
+2025-03-05 10:28:30,586 - utils.logger - ERROR - Failed to capture fingerprint.
+2025-03-05 10:28:30,588 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:28:30] "POST /recognize HTTP/1.1" 200 -
+2025-03-05 10:28:32,719 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:28:32] "GET / HTTP/1.1" 200 -
+2025-03-05 10:28:49,852 - utils.logger - INFO - Training fingerprint for user: Brighton
+2025-03-05 10:28:54,573 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 10:28:54,689 - utils.logger - ERROR - Failed to capture frame.
+2025-03-05 10:28:54,703 - utils.logger - ERROR - Error in capture_fingerprint: cannot access local variable 'filename' where it is not associated with a value
+2025-03-05 10:28:54,704 - utils.logger - ERROR - Failed to capture fingerprint.
+2025-03-05 10:28:54,706 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:28:54] "POST /train HTTP/1.1" 200 -
+2025-03-05 10:29:20,486 - utils.logger - INFO - Fingerprint saved as static/20250305102920.png
+2025-03-05 10:29:22,951 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-05 10:29:23,168 - utils.logger - INFO - Extracted 116 descriptors.
+2025-03-05 10:29:23,186 - utils.logger - INFO - Fingerprint stored for Brighton.
+2025-03-05 10:29:23,186 - utils.logger - INFO - Fingerprint stored successfully for Brighton.
+2025-03-05 10:29:23,188 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:29:23] "POST /train HTTP/1.1" 200 -
+2025-03-05 10:29:27,114 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-05 10:29:31,993 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 10:29:38,239 - utils.logger - INFO - Fingerprint saved as static/20250305102938.png
+2025-03-05 10:29:40,751 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-05 10:29:41,156 - utils.logger - INFO - Extracted 90 descriptors.
+2025-03-05 10:29:41,208 - utils.logger - INFO - Best match found: Brighton with 29 good matches.
+2025-03-05 10:29:41,212 - utils.logger - INFO - Match result: Brighton
+2025-03-05 10:29:41,221 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:29:41] "POST /recognize HTTP/1.1" 200 -
+2025-03-05 10:30:21,033 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-05 10:30:25,048 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 10:30:30,881 - utils.logger - INFO - Fingerprint saved as static/20250305103030.png
+2025-03-05 10:30:33,355 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-05 10:30:33,559 - utils.logger - INFO - Extracted 95 descriptors.
+2025-03-05 10:30:33,577 - utils.logger - INFO - Best match found: Brighton with 31 good matches.
+2025-03-05 10:30:33,578 - utils.logger - INFO - Match result: Brighton
+2025-03-05 10:30:33,581 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:30:33] "POST /recognize HTTP/1.1" 200 -
+2025-03-05 10:30:41,346 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-05 10:30:46,604 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 10:31:06,066 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 10:31:06,068 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 10:31:06,072 - werkzeug - INFO -  * Restarting with stat
+2025-03-05 10:31:07,076 - werkzeug - WARNING -  * Debugger is active!
+2025-03-05 10:31:07,092 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-05 10:31:12,444 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:31:12] "GET / HTTP/1.1" 200 -
+2025-03-05 10:31:12,938 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:31:12] "[36mGET /static/xds_logo.png HTTP/1.1[0m" 304 -
+2025-03-05 10:31:33,138 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 10:31:45,393 - utils.logger - INFO - Fingerprint saved as static/20250305103145.png
+2025-03-05 10:31:48,098 - utils.logger - ERROR - Failed to read image: static\temp_fingerprint.png
+2025-03-05 10:31:48,098 - utils.logger - ERROR - Image preprocessing failed.
+2025-03-05 10:31:48,100 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:31:48] "[35m[1mPOST /train HTTP/1.1[0m" 500 -
+2025-03-05 10:31:55,969 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:31:55] "GET / HTTP/1.1" 200 -
+2025-03-05 10:31:56,079 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:31:56] "[36mGET /static/xds_logo.png HTTP/1.1[0m" 304 -
+2025-03-05 10:32:10,372 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 10:32:14,780 - utils.logger - INFO - Fingerprint saved as static/20250305103214.png
+2025-03-05 10:32:17,463 - utils.logger - ERROR - Failed to read image: static\temp_fingerprint.png
+2025-03-05 10:32:17,464 - utils.logger - ERROR - New image preprocessing failed.
+2025-03-05 10:32:17,465 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:32:17] "POST /recognize HTTP/1.1" 200 -
+2025-03-05 10:32:27,401 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:32:27] "GET / HTTP/1.1" 200 -
+2025-03-05 10:32:27,508 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 10:32:27] "[36mGET /static/xds_logo.png HTTP/1.1[0m" 304 -
+2025-03-05 11:39:14,416 - utils.logger - INFO - Starting Flask application...
+2025-03-05 11:39:14,548 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 11:39:14,548 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 11:39:14,548 - werkzeug - INFO -  * Restarting with stat
+2025-03-05 11:39:15,633 - utils.logger - INFO - Starting Flask application...
+2025-03-05 11:39:15,691 - werkzeug - WARNING -  * Debugger is active!
+2025-03-05 11:39:15,701 - werkzeug - INFO -  * Debugger PIN: 978-963-580
+2025-03-05 11:39:17,221 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 11:39:17] "GET / HTTP/1.1" 200 -
+2025-03-05 11:39:25,768 - utils.logger - INFO - Training fingerprint for user: Tatenda
+2025-03-05 11:39:30,429 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 11:39:52,588 - utils.logger - INFO - Fingerprint saved as static/20250305113952.png
+2025-03-05 11:39:55,089 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-05 11:39:55,301 - utils.logger - INFO - Extracted 182 descriptors.
+2025-03-05 11:39:55,372 - utils.logger - INFO - Fingerprint stored for Tatenda.
+2025-03-05 11:39:55,373 - utils.logger - INFO - Fingerprint stored successfully for Tatenda.
+2025-03-05 11:39:55,380 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 11:39:55] "POST /train HTTP/1.1" 200 -
+2025-03-05 11:40:00,513 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-05 11:40:04,345 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 11:40:25,476 - utils.logger - INFO - Fingerprint saved as static/20250305114025.png
+2025-03-05 11:40:27,927 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-05 11:40:28,123 - utils.logger - INFO - Extracted 129 descriptors.
+2025-03-05 11:40:28,161 - utils.logger - INFO - No match found.
+2025-03-05 11:40:28,162 - utils.logger - INFO - Match result: No match found
+2025-03-05 11:40:28,164 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 11:40:28] "POST /recognize HTTP/1.1" 200 -
+2025-03-05 11:40:31,729 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-05 11:40:35,356 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 11:40:50,342 - utils.logger - INFO - Fingerprint saved as static/20250305114050.png
+2025-03-05 11:40:52,832 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-05 11:40:53,014 - utils.logger - INFO - Extracted 163 descriptors.
+2025-03-05 11:40:53,041 - utils.logger - INFO - Best match found: test with 11 good matches.
+2025-03-05 11:40:53,041 - utils.logger - INFO - Match result: test
+2025-03-05 11:40:53,043 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 11:40:53] "POST /recognize HTTP/1.1" 200 -
+2025-03-05 11:40:59,187 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-05 11:41:02,933 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 11:41:11,731 - utils.logger - INFO - Fingerprint saved as static/20250305114111.png
+2025-03-05 11:41:14,219 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-05 11:41:14,412 - utils.logger - INFO - Extracted 149 descriptors.
+2025-03-05 11:41:14,433 - utils.logger - INFO - Best match found: Brighton with 18 good matches.
+2025-03-05 11:41:14,448 - utils.logger - INFO - Match result: Brighton
+2025-03-05 11:41:14,460 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 11:41:14] "POST /recognize HTTP/1.1" 200 -
+2025-03-05 11:41:28,811 - utils.logger - INFO - Training fingerprint for user: tat
+2025-03-05 11:41:32,511 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 11:41:58,341 - utils.logger - INFO - Fingerprint saved as static/20250305114158.png
+2025-03-05 11:42:00,808 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-05 11:42:01,030 - utils.logger - INFO - Extracted 152 descriptors.
+2025-03-05 11:42:01,042 - utils.logger - INFO - Fingerprint stored for tat.
+2025-03-05 11:42:01,042 - utils.logger - INFO - Fingerprint stored successfully for tat.
+2025-03-05 11:42:01,044 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 11:42:01] "POST /train HTTP/1.1" 200 -
+2025-03-05 11:42:05,863 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-05 11:42:09,660 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 11:42:43,111 - utils.logger - INFO - Fingerprint saved as static/20250305114243.png
+2025-03-05 11:42:45,602 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-05 11:42:45,810 - utils.logger - INFO - Extracted 115 descriptors.
+2025-03-05 11:42:45,831 - utils.logger - INFO - No match found.
+2025-03-05 11:42:45,836 - utils.logger - INFO - Match result: No match found
+2025-03-05 11:42:45,839 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 11:42:45] "POST /recognize HTTP/1.1" 200 -
+2025-03-05 11:42:48,509 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-05 11:42:52,235 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 11:43:17,590 - utils.logger - INFO - Fingerprint saved as static/20250305114317.png
+2025-03-05 11:43:20,075 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-05 11:43:20,263 - utils.logger - INFO - Extracted 126 descriptors.
+2025-03-05 11:43:20,286 - utils.logger - INFO - No match found.
+2025-03-05 11:43:20,290 - utils.logger - INFO - Match result: No match found
+2025-03-05 11:43:20,293 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 11:43:20] "POST /recognize HTTP/1.1" 200 -
+2025-03-05 11:43:22,781 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-05 11:43:26,677 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-05 11:43:39,503 - utils.logger - INFO - Fingerprint saved as static/20250305114339.png
+2025-03-05 11:43:41,988 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-05 11:43:42,206 - utils.logger - INFO - Extracted 118 descriptors.
+2025-03-05 11:43:42,239 - utils.logger - INFO - No match found.
+2025-03-05 11:43:42,241 - utils.logger - INFO - Match result: No match found
+2025-03-05 11:43:42,241 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 11:43:42] "POST /recognize HTTP/1.1" 200 -
+2025-03-05 11:43:50,074 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-05 11:43:53,960 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-24 15:52:16,730 - utils.logger - INFO - Starting Flask application...
+2025-03-24 15:52:16,828 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-24 15:52:16,829 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 15:52:16,832 - werkzeug - INFO -  * Restarting with stat
+2025-03-24 15:52:17,628 - utils.logger - INFO - Starting Flask application...
+2025-03-24 15:52:17,664 - werkzeug - WARNING -  * Debugger is active!
+2025-03-24 15:52:17,729 - werkzeug - INFO -  * Debugger PIN: 830-266-436
+2025-03-24 15:52:27,167 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 15:52:27] "GET / HTTP/1.1" 200 -
+2025-03-24 15:52:29,251 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 15:52:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-24 15:52:38,489 - utils.logger - INFO - Training fingerprint for user: brighton
+2025-03-24 15:52:42,300 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-24 15:53:40,488 - utils.logger - INFO - Fingerprint saved as static/20250324155340.png
+2025-03-24 15:53:42,972 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-24 15:53:43,289 - utils.logger - INFO - Extracted 202 descriptors.
+2025-03-24 15:53:43,340 - utils.logger - INFO - Fingerprint stored for brighton.
+2025-03-24 15:53:43,340 - utils.logger - INFO - Fingerprint stored successfully for brighton.
+2025-03-24 15:53:43,340 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 15:53:43] "POST /train HTTP/1.1" 200 -
+2025-03-24 15:53:58,125 - utils.logger - INFO - Training fingerprint for user: brighton
+2025-03-24 15:54:01,090 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-24 15:54:12,093 - utils.logger - INFO - Fingerprint saved as static/20250324155412.png
+2025-03-24 15:54:14,559 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-24 15:54:14,758 - utils.logger - INFO - Extracted 169 descriptors.
+2025-03-24 15:54:14,768 - utils.logger - INFO - Fingerprint stored for brighton.
+2025-03-24 15:54:14,768 - utils.logger - INFO - Fingerprint stored successfully for brighton.
+2025-03-24 15:54:14,769 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 15:54:14] "POST /train HTTP/1.1" 200 -
+2025-03-24 15:54:52,173 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-24 15:54:55,205 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-24 15:55:04,209 - utils.logger - INFO - Fingerprint saved as static/20250324155504.png
+2025-03-24 15:55:06,747 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-24 15:55:06,904 - utils.logger - INFO - Extracted 245 descriptors.
+2025-03-24 15:55:06,963 - utils.logger - INFO - Best match found: brighton with 53 good matches.
+2025-03-24 15:55:06,964 - utils.logger - INFO - Match result: brighton
+2025-03-24 15:55:06,965 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 15:55:06] "POST /recognize HTTP/1.1" 200 -
+2025-03-24 15:55:13,144 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-24 15:55:16,216 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-24 15:58:15,634 - utils.logger - INFO - Starting Flask application...
+2025-03-24 15:58:15,733 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-24 15:58:15,734 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 15:58:15,736 - werkzeug - INFO -  * Restarting with stat
+2025-03-24 15:58:16,474 - utils.logger - INFO - Starting Flask application...
+2025-03-24 15:58:16,518 - werkzeug - WARNING -  * Debugger is active!
+2025-03-24 15:58:16,527 - werkzeug - INFO -  * Debugger PIN: 830-266-436
+2025-03-24 15:58:32,382 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-24 15:58:35,886 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-24 15:58:46,113 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 15:58:46] "GET / HTTP/1.1" 200 -
+2025-03-24 15:59:03,068 - utils.logger - INFO - Starting Flask application...
+2025-03-24 15:59:03,180 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-24 15:59:03,213 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 15:59:03,255 - werkzeug - INFO -  * Restarting with stat
+2025-03-24 15:59:04,023 - utils.logger - INFO - Starting Flask application...
+2025-03-24 15:59:04,067 - werkzeug - WARNING -  * Debugger is active!
+2025-03-24 15:59:04,077 - werkzeug - INFO -  * Debugger PIN: 830-266-436
+2025-03-24 15:59:07,047 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 15:59:07] "GET / HTTP/1.1" 200 -
+2025-03-24 15:59:23,199 - utils.logger - INFO - Training fingerprint for user: kudzii
+2025-03-24 15:59:26,907 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-24 16:00:11,182 - utils.logger - INFO - Fingerprint saved as static/20250324160011.png
+2025-03-24 16:00:13,717 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-24 16:00:13,943 - utils.logger - INFO - Extracted 347 descriptors.
+2025-03-24 16:00:13,972 - utils.logger - INFO - Fingerprint stored for kudzii.
+2025-03-24 16:00:13,998 - utils.logger - INFO - Fingerprint stored successfully for kudzii.
+2025-03-24 16:00:14,000 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 16:00:14] "POST /train HTTP/1.1" 200 -
+2025-03-24 16:00:43,150 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-24 16:00:47,543 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-24 16:01:06,314 - utils.logger - INFO - Fingerprint saved as static/20250324160106.png
+2025-03-24 16:01:08,912 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-24 16:01:09,117 - utils.logger - INFO - Extracted 44 descriptors.
+2025-03-24 16:01:09,161 - utils.logger - INFO - No match found.
+2025-03-24 16:01:09,162 - utils.logger - INFO - Match result: No match found
+2025-03-24 16:01:09,163 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 16:01:09] "POST /recognize HTTP/1.1" 200 -
+2025-03-24 16:01:13,898 - utils.logger - INFO - Recognizing fingerprint...
+2025-03-24 16:01:18,737 - utils.logger - INFO - Webcam opened successfully. Press 's' to capture the fingerprint.
+2025-03-24 16:01:37,944 - utils.logger - INFO - Fingerprint saved as static/20250324160137.png
+2025-03-24 16:01:40,498 - utils.logger - INFO - Image preprocessed successfully.
+2025-03-24 16:01:40,712 - utils.logger - INFO - Extracted 267 descriptors.
+2025-03-24 16:01:40,770 - utils.logger - INFO - Best match found: kudzii with 22 good matches.
+2025-03-24 16:01:40,773 - utils.logger - INFO - Match result: kudzii
+2025-03-24 16:01:40,775 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 16:01:40] "POST /recognize HTTP/1.1" 200 -
+2025-03-24 16:10:42,167 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-24 16:10:42,170 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-24 16:10:42,173 - werkzeug - INFO -  * Restarting with stat
+2025-03-24 16:10:42,900 - werkzeug - WARNING -  * Debugger is active!
+2025-03-24 16:10:42,911 - werkzeug - INFO -  * Debugger PIN: 830-266-436
+2025-03-24 16:10:47,725 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 16:10:47] "GET / HTTP/1.1" 200 -
+2025-03-24 16:10:48,198 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2025 16:10:48] "GET /static/xds_logo.png HTTP/1.1" 200 -
